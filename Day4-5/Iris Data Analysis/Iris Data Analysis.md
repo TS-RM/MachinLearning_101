@@ -17,7 +17,9 @@
 # التدريب
 يجب فهم قاعدة البيانات قبل البدء يجب ان نعرف ماذا تعني هذه البيانات
 ---
-![Alt Text]([iris-machinelearning.png](https://github.com/TS-RM/MachinLearning_101/blob/main/Day4-5/iris-machinelearning.png?raw=true))
+![iris-machinelearning.png](https://github.com/TS-RM/MachinLearning_101/blob/main/Day4-5/iris-machinelearning.png?raw=true)
+![iris-machinelearning.png](Day4-5/iris-machinelearning.png?raw=true)
+
 
 ### الخطوة الاولى: بناء نظرة عامة على البيانات
 
