@@ -18,7 +18,7 @@
 يجب فهم قاعدة البيانات قبل البدء يجب ان نعرف ماذا تعني هذه البيانات
 ---
 ![iris-machinelearning.png](https://github.com/TS-RM/MachinLearning_101/blob/main/Day4-5/iris-machinelearning.png?raw=true)
-![iris-machinelearning.png](Day4-5/iris-machinelearning.png?raw=true)
+
 
 
 ### الخطوة الاولى: بناء نظرة عامة على البيانات
@@ -356,25 +356,25 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![png]([output_18_0.png](https://github.com/TS-RM/MachinLearning_101/blob/main/Day4-5/Iris%20Data%20Analysis/output_18_0.png?raw=true))
     
 
 
 
     
-![png](output_18_1.png)
+![png](https://github.com/TS-RM/MachinLearning_101/blob/main/Day4-5/Iris%20Data%20Analysis/output_18_1.png?raw=true)
     
 
 
 
     
-![png](output_18_2.png)
+![png](https://github.com/TS-RM/MachinLearning_101/blob/main/Day4-5/Iris%20Data%20Analysis/output_18_2.png?raw=true)
     
 
 
 
     
-![png](output_18_3.png)
+![png](https://github.com/TS-RM/MachinLearning_101/blob/main/Day4-5/Iris%20Data%20Analysis/output_18_3.png?raw=true)
     
 
 
@@ -424,13 +424,13 @@ plt.show()
 
 
     
-![png](output_20_0.png)
+![png](https://github.com/TS-RM/MachinLearning_101/blob/main/Day4-5/Iris%20Data%20Analysis/output_20_0.png?raw=true)
     
 
 
 
     
-![png](output_20_1.png)
+![png](https://github.com/TS-RM/MachinLearning_101/blob/main/Day4-5/Iris%20Data%20Analysis/output_20_1.png?raw=true)
     
 
 
@@ -556,7 +556,7 @@ print("5. All features show statistically significant differences across species
 
 
     
-![png](output_25_0.png)
+![png](https://github.com/TS-RM/MachinLearning_101/blob/main/Day4-5/Iris%20Data%20Analysis/output_25_0.png?raw=true)
     
 
 
