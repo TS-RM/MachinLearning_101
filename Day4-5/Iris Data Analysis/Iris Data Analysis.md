@@ -1,6 +1,5 @@
-# IRIS Data Analysis
+# IRIS Data Analysis Arabic/English
 
-## My To-Do List
 1. تحميل قاعدة البيانات
 2. طباعة البداية والنهاية والمعلومات عن قاعدة البيانات
 3. تمثيل قاعدة البيانات بالرسومات
