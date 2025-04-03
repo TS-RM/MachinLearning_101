@@ -645,8 +645,8 @@ plt.show()
 ```
 
 
-    
-![png](output_29_0.png)
+
+![png](https://github.com/TS-RM/MachinLearning_101/blob/main/Day4-5/Iris%20Data%20Analysis/output_29_0.png?raw=true)
     
 
 
@@ -1037,7 +1037,8 @@ print(comparison_umap)
 
 
     
-![png](output_34_1.png)
+
+![png](https://github.com/TS-RM/MachinLearning_101/blob/main/Day4-5/Iris%20Data%20Analysis/output_29_0.png?raw=true)
     
 
 
