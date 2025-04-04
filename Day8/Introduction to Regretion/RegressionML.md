@@ -18,12 +18,6 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 ```
 
-<details>
-  <summary>Click to expand the list</summary>
-  - Option 1
-  - Option 2
-  - Option 3
-</details>
 
 ### مكتبات اخرى
 <details>
@@ -138,7 +132,7 @@ X_test
     .dataframe thead th {
         text-align: right;
     }
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -480,6 +474,3 @@ print("MSE لـ Lasso:", mean_squared_error(y, y_pred_lasso))
 انحدار Lasso (L1) يمكن أن يجعل بعض المعاملات تساوي صفرًا، مما يؤدي إلى اختيار الميزات.
 
 
-```python
-
-```
